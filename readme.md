@@ -1,5 +1,4 @@
-<img src="alice-shell.png" alt="alice-shell logo" width="40%"/>
-
+![Alice Shell Logo](alice-shell.png)
 # alice-shell
 
 Voice-enabled shell + GUI assistant for the Codex / GPT CLI.
